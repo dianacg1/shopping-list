@@ -1,5 +1,4 @@
 - Water
-- Bread
-- Coffee
-- Milk
+- Bones
+- Treats
 - Cheese
