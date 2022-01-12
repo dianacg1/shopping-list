@@ -3,4 +3,3 @@
 - Coffee
 - Milk
 - Cheese
-- Egg
